@@ -1,4 +1,5 @@
 # C++ Konsol Oyunları
+> Dev C++ kullanılarak yazılmıştır.
 
 <ul>
       <li><a href="https://github.com/kutayozturk/Araba-Yarisi">:car: Araba Yarışı / Car Racing</a></li>
